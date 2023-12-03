@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\bin\Debug\net7.0\HttpCient_GetAsync.exe
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\bin\Debug\net7.0\HttpCient_GetAsync.deps.json
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\bin\Debug\net7.0\HttpCient_GetAsync.runtimeconfig.json
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\bin\Debug\net7.0\HttpCient_GetAsync.dll
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\bin\Debug\net7.0\HttpCient_GetAsync.pdb
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\obj\Debug\net7.0\HttpCient_GetAsync.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\obj\Debug\net7.0\HttpCient_GetAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\obj\Debug\net7.0\HttpCient_GetAsync.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\obj\Debug\net7.0\HttpCient_GetAsync.AssemblyInfo.cs
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\obj\Debug\net7.0\HttpCient_GetAsync.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\obj\Debug\net7.0\HttpCient_GetAsync.dll
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\obj\Debug\net7.0\refint\HttpCient_GetAsync.dll
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\obj\Debug\net7.0\HttpCient_GetAsync.pdb
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\obj\Debug\net7.0\HttpCient_GetAsync.genruntimeconfig.cache
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\obj\Debug\net7.0\ref\HttpCient_GetAsync.dll
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Programming\Projects\HttpCient_GetAsync\HttpCient_GetAsync\obj\Debug\net7.0\HttpCient_GetAsync.csproj.CopyComplete
